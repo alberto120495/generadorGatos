@@ -1,0 +1,37 @@
+.contenedor {
+  border: 1px solid red;
+  width: 75%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.boton {
+  background-color: #1dc40a;
+  border: 2px solid #149606;
+  color: #ffffff;
+  font-size: 20px;
+  border-radius: 6px;
+  font-weight: 600;
+  padding: 10px;
+  padding-left: 28px;
+  padding-right: 28px;
+  outline: none;
+  margin-bottom: 10px;
+}
+
+.contenedor-2 {
+  border: 1px solid green;
+  /* padding: 50px;
+  margin: 20px; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+img {
+  border: 1px solid orange;
+  width: 200px;
+  margin: 10px;
+
+  box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.7);
+}
